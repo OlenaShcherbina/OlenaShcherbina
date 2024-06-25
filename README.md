@@ -1,6 +1,7 @@
 ## Hi, I am Olena
 
-### Currently I'm learning Java with DCI
+* Currently I'm learning Java with DCI
+* You can contact me [here](mailto:olena.shcherbina@dci-student.org)
 
 
 
