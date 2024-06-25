@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Olena
+
+### Currently I'm learning Java with DCI
+
+
 
 <!--
 **OlenaShcherbina/OlenaShcherbina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
